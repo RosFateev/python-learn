@@ -1,4 +1,4 @@
-""" Some common ways how to work with json files
+""" Some common ways how to work with json files.
 """
 import json
 
